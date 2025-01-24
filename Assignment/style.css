@@ -329,6 +329,11 @@ footer{
 .lt_lg{
     display: flex;
 }
+button:hover{
+    background-color: orangered;
+    color: white;
+    cursor: pointer;
+}
 
 @media screen and (max-width: 576px) {
     .const_width{
