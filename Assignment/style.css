@@ -141,6 +141,9 @@
     text-decoration: none;
     font-size: 0.94rem;
     font-weight: 700;
+    /* padding: 32px 132px 52px 132px; */
+}
+.ex_a{
     padding: 32px 132px 52px 132px;
 }
 .cly1{  
