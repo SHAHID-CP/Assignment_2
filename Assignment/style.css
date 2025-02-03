@@ -399,6 +399,8 @@ button:hover{
         display: flex;
         justify-content: center;
     }
+
+    /* main cart button */
     .ex_a{
         display: flex;
         justify-content: center;
@@ -408,6 +410,8 @@ button:hover{
         font-size: 0.6rem;
         padding: 32px 0px 52px 0px;
     }
+
+
     .main_story h2{
         font-size: 1.6rem;
         margin-top: 40px;
@@ -419,12 +423,17 @@ button:hover{
     .ssmall{
         gap: 11px;
     }
+
+
     .ctime{
         font-size: 0.70rem;
         padding: 8px 16px;
         left: 30px;
         bottom: 90px;
+        display: none;
     }
+
+
     .ssmall img{
         width: 100%;
     }
