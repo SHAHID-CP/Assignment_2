@@ -118,6 +118,11 @@
     font-size: 2.86rem;
     font-weight: 700;
 }
+
+
+
+
+
 .main_cart{
     gap: 28px;
 }
@@ -146,6 +151,12 @@
 .ex_a{
     padding: 32px 132px 52px 132px;
 }
+
+
+
+
+
+
 .cly1{  
     border-radius: 18px;  
     /* background: linear-gradient(to bottom, #70b1d6, #f0eded ); */
@@ -197,6 +208,10 @@
 .story_cart_main{
     background-image: url(../pic/bg.png);
 }
+
+
+
+
 .main_story h2{
     text-align: center;
     font-size: 2.8rem;
@@ -285,6 +300,12 @@
     margin-bottom: 60px;
     padding: 10px 61px;
 }
+
+
+
+
+
+
 footer{
     background-color: #01ACFD;
 }
@@ -404,6 +425,7 @@ button:hover{
     .ex_a{
         display: flex;
         justify-content: center;
+        padding: 0px;
     } 
     .main_cart a{
         /* text-align: center; */
